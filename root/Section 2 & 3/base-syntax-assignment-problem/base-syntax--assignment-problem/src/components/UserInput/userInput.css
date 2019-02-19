@@ -1,0 +1,10 @@
+.userInput{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.userInput input{
+    padding: 10px;
+    text-align: center;
+}
